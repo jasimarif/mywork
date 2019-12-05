@@ -1,0 +1,20 @@
+c/c++ difference in terms of casting,
+static dynamic, dynamic typing
+javascript is duck typed
+
+downside of dynamic typecasting:-errors in runtime due to dynamic typecasting
+
+unit testing: A code used to test your own code, unit means function.
+
+test driven development: test is written first then code is written.
+
+HOMEWORK
+
+learn GIT things used before GIT.
+c/c++ difference in terms of casting,
+static dynamic, dynamic typing vs weak and strong typing
+ 
+Things before GIT:-
+concurrent version system, bitkeeper
+
+
